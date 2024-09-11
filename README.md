@@ -3,7 +3,7 @@
 
 🔎 focusing on c++, low-latency optimisations, and quantitative finance
 
-🌐 currently interning at netcraft under the discovery team
+🌐 interned at netcraft this summer under the discovery team
 
 ## 💡 motivation
 i've always been driven by complex problem-solving and continuous learning. software engineering is a realm that is constantly evolving, and when amplified by the dynamics of quantitative finance, it is practically impossible to be satisfied with your learning. this creates endless room for growth, and constant self-improvement is something i'm passionate about.
