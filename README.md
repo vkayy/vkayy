@@ -18,7 +18,7 @@ i've always been driven by complex problem-solving and continuous learning. soft
 ## 🌟 interests and hobbies
 my hobbies have been varied, from art to microbiology to swimming. now, i'm dedicated to swe, but to sum up a few interests:
 
-📚 non-fiction reading (philosophy, psychology)
+📚 non-fiction (philosophy, psychology, computing)
 
 🎵 music (hip-hop, r&b)
 
