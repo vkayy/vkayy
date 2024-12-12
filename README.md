@@ -11,9 +11,9 @@ i've always been driven by complex problem-solving and continuous learning. soft
 ## 🚀 projects
 🛢 developing a time-series database engine to explore data-intensive architectures intersecting with my interest in quantitative finance.
 
-⌛ worked on a verlet integration physics engine. participated in a couple hackathons, winning ichack 24's citadel challenge in y1.
+⌛ worked on a verlet integration physics engine. participated in a couple competitions, winning ichack 24's citadel challenge in y1 and ciuk's high-performance computing challenge recently. will be at isc 2025!
 
-🔮 planning to work on an os and compiler to flesh out more of my systems programming experience, then stretch a little with my own network protocol.
+🔮 planning to work on an os (besides pintos) and compiler to flesh out more of my systems programming experience, then stretch a little with my own network protocol.
 
 ## 🌟 interests and hobbies
 my hobbies have been varied, from art to microbiology to swimming. now, i'm dedicated to swe, but to sum up a few interests:
