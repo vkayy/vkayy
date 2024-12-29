@@ -9,7 +9,7 @@
 i've always been driven by complex problem-solving and continuous learning. software engineering is a realm that is constantly evolving, and when amplified by the dynamics of quantitative finance, it is practically impossible to be satisfied with your learning. this creates endless room for growth, and constant self-improvement is something i'm passionate about.
 
 ## 🚀 projects
-🛢 developing a time-series database engine to explore data-intensive architectures intersecting with my interest in quantitative finance.
+🛢 developing a time series database engine to explore data-intensive architectures intersecting with my interest in quantitative finance.
 
 ⌛ worked on a verlet integration physics engine. participated in a couple competitions, winning ichack 24's citadel challenge in y1 and ciuk's high-performance computing challenge recently. will be at isc 2025!
 
