@@ -29,3 +29,5 @@ my hobbies have been varied, from art to microbiology to swimming. now, i'm dedi
 ## 🤝 connect
 
 feel free to reach out on <a href="https://www.linkedin.com/in/vinzkakilala">linkedin</a> for tech opportunities, book recommendations, or collaborations.
+
+![](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=FFFFFF)
