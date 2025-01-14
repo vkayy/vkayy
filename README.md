@@ -5,6 +5,8 @@
 
 🌐 interned at netcraft during summer '24 under the discovery team
 
+📊 working with thalesians to develop low-latency software for heterogeneous computing in hft 
+
 ## 💡 motivation
 i've always been driven by complex problem-solving and continuous learning. software engineering is a realm that is constantly evolving, and when amplified by the dynamics of quantitative finance, it is practically impossible to be satisfied with your learning. this creates endless room for growth, and constant self-improvement is something i'm passionate about.
 
