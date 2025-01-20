@@ -3,7 +3,7 @@
 
 🔎 focusing on c++, low-latency optimisations, and quantitative finance
 
-⚡ working at thalesians on high-performance computing and high-frequency trading infrastructure
+⚡ working at thalesians on high-performance computing and high-frequency trading infra in c++
 
 ## 💡 motivation
 i've always been driven by complex problem-solving and continuous learning. software engineering is a realm that is constantly evolving, and when amplified by the dynamics of quantitative finance, it is practically impossible to be satisfied with your learning. this creates endless room for growth, and constant self-improvement is something i'm passionate about.
