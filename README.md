@@ -24,7 +24,7 @@ exploring data-intensive architectures in c++ oriented on high-throughput.
 
 ---
 
-## 🏆 achievements
+## 🏆 competitions
 
 #### 📊 ichack 2024 (citadel challenge)
 won **europe's largest student-run** hackathon: 'most innovative use of financial data'.
