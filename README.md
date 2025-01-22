@@ -1,33 +1,50 @@
 # 💻 vinz kakilala
-🎓 penultimate year computing student at imperial college london
+🎓 penultimate year computing student at **imperial college london**
 
-🔎 focusing on c++, low-latency optimisations, and quantitative finance
+🔎 focusing on **c++**, **high performance**, and **quantitative finance**
 
-⚡ working at thalesians on high-performance computing and high-frequency trading infra in c++
+---
 
 ## 💡 motivation
-i've always been driven by complex problem-solving and continuous learning. software engineering is a realm that is constantly evolving, and when amplified by the dynamics of quantitative finance, it is practically impossible to be satisfied with your learning. this creates endless room for growth, and constant self-improvement is something i'm passionate about.
 
-## 🚀 projects
-🛢 developing a time series database engine to explore data-intensive architectures intersecting with my interest in quantitative finance.
+i've always been driven by **tough problems** and **continuous learning**. the **dynamics** of quantitative finance combined with how it hinges on the **competitive edge** of low-latency software makes it the **challenge** i'm looking for.
 
-⌛ worked on a verlet integration physics engine. participated in a couple competitions, winning ichack 24's citadel challenge in y1 and ciuk's high-performance computing challenge recently. will be at isc 2025!
+---
 
-🔮 planning to work on an os (besides pintos) and compiler to flesh out more of my systems programming experience, then stretch a little with my own network protocol.
+## 🚀 what i'm up to
+
+#### ⚡ swe @ thalesians
+working on high-performance computing in c++ for high-frequency trading.
+
+#### 🛢 vkdb (time series database engine)
+exploring data-intensive architectures in c++ oriented on high-throughput.
+
+---
+
+## 🏆 achievements
+
+#### 🌎 ichack 2024 (citadel challenge)
+won **europe's largest student-run** hackathon: 'most innovative use of financial data'.
+
+#### 📊 ciuk 2024  
+won the uk's **largest national** high-performance computing competition.
+
+#### 📈 isc 2025  
+competing in the **international** high-perfomance computing competition.
+
+---
 
 ## 🌟 interests and hobbies
-my hobbies have been varied, from art to microbiology to swimming. now, i'm dedicated to swe, but to sum up a few interests:
+my hobbies are super variant, from art to microbiology, and from coding to swimming.
 
-📚 non-fiction (philosophy, psychology, computing)
+but, here are some main interests of mine:
 
-🎵 music (hip-hop, r&b)
+- 📚 **non-fiction** (philosophy, psychology, computing)  
+- 🎵 **music** (hip-hop, r&b)  
+- 🐈‍⬛ **cats** (especially black cats)  
+- ❤️‍🩹 **my girlfriend** (shoutout to her!)  
 
-🐈‍⬛ cats (especially black cats)
-
-❤️‍🩹 my girlfriend (shoutout to her)
+---
 
 ## 🤝 connect
-
-feel free to reach out on <a href="https://www.linkedin.com/in/vinzkakilala">linkedin</a> for tech opportunities, book recommendations, or collaborations.
-
-![](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=FFFFFF)
+feel free to reach out on [linkedin](https://www.linkedin.com/in/vinzkakilala) for tech opportunities, book recommendations, or collaborations. always down to work on interesting, impactful stuff.
