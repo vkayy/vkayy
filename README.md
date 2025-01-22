@@ -19,20 +19,20 @@ i've always been driven by **tough problems** and **continuous learning**. the *
 #### ⚡ swe @ thalesians
 working on low-latency computing in c++ for high-frequency trading.
 
-#### 🛢 vkdb (time series database engine)
+#### 📈 vkdb (time series database engine)
 exploring data-intensive architectures in c++ oriented on high-throughput.
 
 ---
 
 ## 🏆 achievements
 
-#### 🌎 ichack 2024 (citadel challenge)
+#### 📊 ichack 2024 (citadel challenge)
 won **europe's largest student-run** hackathon: 'most innovative use of financial data'.
 
-#### 📊 ciuk 2024  
+#### 💻 ciuk 2024  
 won the uk's **largest national** high-performance computing competition.
 
-#### 📈 isc 2025  
+#### 🖥️ isc 2025  
 competing in the **international** high-perfomance computing competition.
 
 ---
