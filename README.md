@@ -1,7 +1,7 @@
 # 💻 vinz kakilala
 🎓 penultimate year computing student at **imperial college london**.
 
-🔎 focusing on **c++**, **high performance**, and **quantitative finance**.
+🔎 focusing on **c++**, **low-latency**, and **quantitative finance**.
 
 > **"what stands in the way becomes the way."**  
 > — marcus aurelius
@@ -17,7 +17,7 @@ i've always been driven by **tough problems** and **continuous learning**. the *
 ## 🚀 what i'm up to
 
 #### ⚡ swe @ thalesians
-working on high-performance computing in c++ for high-frequency trading.
+working on low-latency computing in c++ for high-frequency trading.
 
 #### 🛢 vkdb (time series database engine)
 exploring data-intensive architectures in c++ oriented on high-throughput.
