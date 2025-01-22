@@ -3,6 +3,9 @@
 
 🔎 focusing on **c++**, **high performance**, and **quantitative finance**
 
+> **"what stands in the way becomes the way."**  
+> — marcus aurelius
+
 ---
 
 ## 💡 motivation
