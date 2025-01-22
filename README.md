@@ -1,7 +1,7 @@
 # 💻 vinz kakilala
-🎓 penultimate year computing student at **imperial college london**
+🎓 penultimate year computing student at **imperial college london**.
 
-🔎 focusing on **c++**, **high performance**, and **quantitative finance**
+🔎 focusing on **c++**, **high performance**, and **quantitative finance**.
 
 > **"what stands in the way becomes the way."**  
 > — marcus aurelius
