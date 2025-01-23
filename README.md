@@ -38,7 +38,7 @@ competing in the **international** high-perfomance computing competition.
 ---
 
 ## 🌟 interests and hobbies
-my hobbies are super variant, from art to microbiology, and from coding to swimming.
+my hobbies are super variant, from art to microbiology, and from swimming to coding.
 
 here are some main interests of mine!
 
