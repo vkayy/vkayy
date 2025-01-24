@@ -16,8 +16,8 @@ i've always been driven by **tough problems** and **continuous learning**. the *
 
 ## 🚀 what i'm up to
 
-#### ⚡ swe @ thalesians
-working on low-latency computing in c++ for high-frequency trading.
+#### 🧠 swe @ thalesians
+working at a think-tank on low-latency computing for high-frequency trading.
 
 #### 📈 vkdb (time series database engine)
 exploring data-intensive architectures in c++ oriented on high-throughput.
