@@ -3,6 +3,8 @@
 
 🔎 focusing on **c++**, **low-latency**, and **quantitative finance**.
 
+🌐 interning at **citadel securities** on the **options market making** team this summer.
+
 > **"what stands in the way becomes the way."**  
 > — marcus aurelius
 
@@ -15,9 +17,6 @@ i've always been driven by **tough problems** and **continuous learning**. the *
 ---
 
 ## 🚀 what i'm up to
-
-#### 🌐 incoming swe intern @ citadel securities
-working on the options market making team.
 
 #### 🧠 swe @ thalesians
 working on low-latency computing for hft.
