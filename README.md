@@ -20,7 +20,7 @@ i've always been driven by **tough problems** and **continuous learning**. the *
 working on the options market making team.
 
 #### 🧠 swe @ thalesians
-working at on low-latency computing in c++ for hft.
+working on low-latency computing for hft.
 
 #### 📈 vkdb (time series database engine)
 exploring data-intensive architectures in c++.
