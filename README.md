@@ -16,6 +16,9 @@ i've always been driven by **tough problems** and **continuous learning**. the *
 
 ## 🚀 what i'm up to
 
+#### 🌐 incoming swe intern @ citadel securities
+working on the options market making team.
+
 #### 🧠 swe @ thalesians
 working at a think-tank on low-latency computing in c++ for high-frequency trading.
 
