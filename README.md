@@ -17,13 +17,13 @@ i've always been driven by **tough problems** and **continuous learning**. the *
 ## 🚀 what i'm up to
 
 #### 🌐 incoming swe intern @ citadel securities
-working in the options market making team.
+working in the options market making team this summer.
 
 #### 🧠 swe @ thalesians
-working on low-latency computing for hft.
+working on technology for high-performance, heterogeneous systems.
 
 #### 📈 vkdb (time series database engine)
-exploring data-intensive architectures in c++.
+exploring data-intensive architectures in c++ oriented on high-throughput.
 
 ---
 
