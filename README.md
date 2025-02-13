@@ -23,10 +23,10 @@ working in the options market making team this summer.
 working on technology for high-performance, heterogeneous systems.
 
 #### 📈 vkdb (time series database engine)
-exploring data-intensive architectures in c++ oriented on high-throughput.
+exploring data-intensive architectures in c++ oriented on throughput.
 
 #### 🔓 kairos (lock-free data structure library)
-exploring concurrenct data structures in c++ oriented on performance.
+exploring concurrent data structures in c++ oriented on performance.
 
 ---
 
