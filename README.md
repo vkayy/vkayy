@@ -10,7 +10,7 @@
 
 ## 💡 motivation
 
-i've always been driven by **tough problems** and **continuous learning**. the **dynamics** of quantitative finance and how it hinges on the **competitive edge** of **low-latency** software make it the challenge i'm looking for.
+i've always been driven by **tough problems** and **continuous learning**. the dynamics of quantitative finance and how it hinges on the competitive edge of low-latency software make it the challenge i'm looking for.
 
 ---
 
