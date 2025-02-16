@@ -25,9 +25,6 @@ working on technology for high-performance, heterogeneous systems.
 #### 📈 vkdb (time series database engine)
 exploring data-intensive architectures in c++ oriented on throughput.
 
-#### 🔓 kairos (lock-free data structure library)
-exploring concurrent data structures in c++ oriented on performance.
-
 ---
 
 ## 🏆 competitions
