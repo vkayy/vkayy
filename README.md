@@ -6,3 +6,5 @@ I enjoy writing C++ and hanging out with my girlfriend.
 
 - Software Engineer @ Thalesians
 - Incoming Software Engineer Intern @ Citadel Securities
+
+Résumé available on request.
