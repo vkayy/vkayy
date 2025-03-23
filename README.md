@@ -1,5 +1,3 @@
-<h1 align="center">Vinz Kakilala</h1>
-
 ## About
 
 I'm Vinz, a Computing student at Imperial College London. I enjoy writing C++ and hanging out with my girlfriend.
