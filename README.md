@@ -1,7 +1,8 @@
-## About
+## About me
 
-I'm Vinz, a Computing student at Imperial College London. I enjoy writing C++ and hanging out with my girlfriend.
+I'm Vinz, a Computing student at Imperial College London.
 
-Currently, I'm a part-time software engineer at Thalesians, and I'll be at Citadel Securities this summer.
+I enjoy writing C++ and hanging out with my girlfriend.
 
-Feel free to contact me on [LinkedIn](https://linkedin.com/in/vinzkakilala).
+- Software Engineer @ Thalesians
+- Incoming Software Engineer Intern @ Citadel Securities
