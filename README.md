@@ -4,6 +4,6 @@ I'm Vinz, a Computing student at Imperial College London.
 
 I like writing C++, spending time with my girlfriend, and black cats.
 
-- Ex-Software Engineer Intern @ Citadel Securities \[Received full-time offer\]
+- Incoming Software Engineer @ Citadel Securities \[Received full-time return offer\]
 
 Résumé available on request.
