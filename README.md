@@ -2,6 +2,6 @@
 
 I'm Vinz, a Computing student at Imperial College London.
 
-- Incoming Software Engineer @ Citadel Securities
+- Incoming Quantitative Developer @ Citadel Securities
 
 Résumé available on request.
