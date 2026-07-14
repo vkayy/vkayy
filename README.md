@@ -1,3 +1,3 @@
 ## About me
 
-I'm Vinz, a Quantitative Developer at Citadel Securities.
+I'm Vinz, an incoming Quant Dev at Citadel Securities.
